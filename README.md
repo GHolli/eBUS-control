@@ -50,9 +50,10 @@ $ ebusd -d 192.168.1.42:9999 --enablehex --scanconfig= -f -p 8888
 **Finally the things should show up in the Inbox:** 
 ![eBUS binding configuration](doc/images/eBUS_Binding_Inbox.png?raw=true)
 
-## Alternatives
+## Alternatives to openHAB
 * [FHEM (German)](https://wiki.fhem.de/wiki/EBUS) [Wikipedia [FHEM](https://de.wikipedia.org/wiki/FHEM) article (German)]
 * [ioBroker Smarthome](https://www.iobroker.net/), [ioBroker.ebus](https://github.com/rg-engineering/ioBroker.ebus)
+* [Home Assistant](https://www.home-assistant.io/integrations/ebusd/)
 
 ## References
 * [openHAB](https://www.openhab.org/)
